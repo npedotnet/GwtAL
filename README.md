@@ -1,6 +1,8 @@
 # GwtAL
 GwtAL is a GWT port of benvanik/WebAL.
 
+https://github.com/benvanik/WebAL
+
 # Getting Started
 
 Download gwtal-1.0.jar and edit yourproject.gwt.xml.
