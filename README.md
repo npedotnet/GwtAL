@@ -88,7 +88,7 @@ http://npe-net.appspot.com/gwtal/demo/index.html
 
 # Customizing for GWT
 
-changes *instanceof Array* to Array.isArray() method.
+changes **instanceof Array** to **Array.isArray()** method.
 ```js
 audioElement instanceof Array
 ```
@@ -96,7 +96,7 @@ audioElement instanceof Array
 Array.isArray(audioElement)
 ```
 
-changes instanceof Audio to instanceof HTMLAudioElement.
+changes **instanceof Audio** to **instanceof HTMLAudioElement**.
 
 ```js
 audioElement instanceof Audio
